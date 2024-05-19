@@ -68,7 +68,7 @@ audio,
 @media screen and (max-width: 450px) {
     #lovexf {
         /* .5 指的是再原始大小上缩放一半 */
-        zoom: .5;
+        zoom: .8;
         /* .3 就是缩放 3/10 */
         /* zoom: .3; */
         /* 大家自己尝试 */
